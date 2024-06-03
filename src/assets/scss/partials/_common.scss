@@ -5,5 +5,7 @@ COMMON
 @use './variables' as *;
 
 body {
-  background-color: $body-bg-color;
+  background-image: $body-bg-color;
+  background-blend-mode: $bg-position;
+  background-size: $bg-sizing;
 }
