@@ -3,11 +3,6 @@ export default {
     props:{
         charObj: Object
     },
-    data() {
-        return {
-
-        };
-    },
 }
 </script>
 
